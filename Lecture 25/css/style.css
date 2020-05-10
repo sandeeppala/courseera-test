@@ -1,0 +1,16 @@
+.row{
+	margin-bottom:15px;
+}
+
+
+
+.row > div{
+background-color: red;
+border:1px solid black;
+height:300px;
+margin-right: 10px;
+margin-bottom: 10px;
+width:100px;
+margin-left: 10px;
+ 
+}	
